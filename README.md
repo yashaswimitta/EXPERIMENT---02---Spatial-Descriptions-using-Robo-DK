@@ -34,4 +34,6 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 
 Similaly fix target in the given position 
 
+## Output
+
 ## Results
