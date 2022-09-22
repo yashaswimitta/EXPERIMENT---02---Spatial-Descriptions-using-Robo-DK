@@ -29,3 +29,9 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 2. Select Tool frame with respect to Reference Frame and enter the X Y Z as a translation distance and Rx Ry Rz as a rotation angle to reach target
 
 3. Select Target 1
+
+4. Right Click and pick teach current position
+
+Similaly fix target in the given position 
+
+## Results
